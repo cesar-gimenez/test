@@ -1,0 +1,49 @@
+#titu1{
+
+	font-family:Bernar;
+	color: #8B00B8;
+}
+
+#parraf1{
+	
+	font-family: Georgia;
+	color: #B22222;
+}
+
+body{
+
+	margin: 40px;
+	border: solid 1px #ccc;
+	border-radius: 8px;
+	box-shadow: 0 0 10px #D0D0D0;
+}
+
+
+
+h1{
+	color: #191970;
+	font-family: Impact;
+}
+
+
+h2{
+
+	color: #008080;
+	font-family: Tahoma;
+}
+
+
+
+
+
+img{
+
+	height: 200px;
+	border: solid 2px #808080;
+	border-radius: 8px;
+}
+
+p{
+	font-family: Arial;
+	font-size: 20px;
+}
